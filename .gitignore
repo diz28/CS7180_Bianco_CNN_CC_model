@@ -1,3 +1,4 @@
 .venv
 *.NEF
 *.npy
+*.CR2
