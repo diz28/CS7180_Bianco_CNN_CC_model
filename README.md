@@ -25,3 +25,9 @@ random<br>
 progressbar<br>
 numpy<br>
 glob<br>
+
+### github repo
+https://github.com/diz28/CS7180_Bianco_CNN_CC_model
+
+### wiki page
+https://wiki.khoury.northeastern.edu/x/DGYkC
